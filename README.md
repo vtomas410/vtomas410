@@ -1,7 +1,7 @@
 <h1>Hi, I'm Tomas! 
 <h2>👨‍💻 Helpdesk/Cybersecurity Projects:</h2>
 
-  - [Active Directory Home lab](https://github.com/vtomas410/AD_PS)
+  - [Active Directory Home lab](https://github.com/vtomas410/Active-Directory-Home-Lab)
     
 <h2>📄 IT Certifications </h2>
 
