@@ -5,7 +5,7 @@
     
 <h2>📄 IT Certifications </h2>
 
-- Google IT Certification (https://www.coursera.org/account/accomplishments/specialization/certificate/CU9L8WUMMXBN)
+- [Google IT Certification](https://www.coursera.org/account/accomplishments/specialization/certificate/CU9L8WUMMXBN)
 
     
 <h2> 🤳 Connect with me:</h2>
